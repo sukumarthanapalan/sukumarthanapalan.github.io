@@ -1,2 +1,2 @@
-# sukkumarthanapalan
+# sukumarthanapalan
 Information Technology Graduate Portfolio
